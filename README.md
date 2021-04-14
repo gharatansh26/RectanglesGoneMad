@@ -1,2 +1,2 @@
-# RectanglesGoneMad
-games
+# collisionAlgorithm
+Algorithm to detect collision between two objects
